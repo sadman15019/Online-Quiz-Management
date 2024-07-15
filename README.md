@@ -38,15 +38,22 @@ Here are some screenshots of the application:
 ### Teacher Dashboard
 ![admin activities](https://user-images.githubusercontent.com/92980057/195974036-084dce16-dbd5-460f-949b-1dec45975db4.jpeg)
 
-### Multiple-Choice Quiz
-![mcq exam](https://user-images.githubusercontent.com/92980057/195974042-6c9bd847-cc6f-4f8c-ad9a-14955897f79a.jpeg)
+### Multiple-Choice Questions Creation
 ![mcq question set](https://user-images.githubusercontent.com/92980057/195974043-399cd7a0-ffb0-4340-8668-9694879a0704.jpeg)
+### Multiple-Choice Questions Examination
+![mcq exam](https://user-images.githubusercontent.com/92980057/195974042-6c9bd847-cc6f-4f8c-ad9a-14955897f79a.jpeg)
+
+### Written Question Creation
+![sub question set](https://user-images.githubusercontent.com/92980057/195974051-358cb526-1d38-4241-b7b7-fa06f4c14f28.jpeg)
 
 ### Written Examination
+![descriptive exam](https://user-images.githubusercontent.com/92980057/195974038-902b04a7-7b22-4c96-8c80-9921646e417e.jpeg)
+
+### Written Script Checking
 ![script check](https://user-images.githubusercontent.com/92980057/195974045-bbd72034-bab1-4e09-944e-df8ecbb36993.jpeg)
 
-![sub question set](https://user-images.githubusercontent.com/92980057/195974051-358cb526-1d38-4241-b7b7-fa06f4c14f28.jpeg)
-![descriptive exam](https://user-images.githubusercontent.com/92980057/195974038-902b04a7-7b22-4c96-8c80-9921646e417e.jpeg)
+
+
 
 ### Grading 
 ![marks check](https://user-images.githubusercontent.com/92980057/195974041-9324e2d7-d7f8-4c22-b1f4-aa332ecdeb98.jpeg)
